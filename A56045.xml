@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals humbly offer'd for coining new money disposing of the old, and avoiding clipt money for the future.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56045</idno>
+            <idno type="STC">Wing P3753A</idno>
+            <idno type="STC">ESTC R217697</idno>
+            <idno type="EEBO-CITATION">99829351</idno>
+            <idno type="PROQUEST">99829351</idno>
+            <idno type="VID">33788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33788)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1978:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals humbly offer'd for coining new money disposing of the old, and avoiding clipt money for the future.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Goldsmiths' Company Library, University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposals_for_coining_money">
+            <pb n="1" facs="tcp:33788:1" rendition="simple:additions"/>
+            <head>
+               <hi>PROPOSALS humbly offer'd for</hi> Coining New MONEY, diſpoſing of the Old, and avoiding Clipt Money for the future.</head>
+            <p>WHEN I conſider what baſe Money goes now throughout this Nation for Currant, how the Mint lies unemploy'd, and how-many counterfeit Coiners are ſet up, I cannot but admire that no Expedient is yet found out for redreſſing this Grievance; which, the longer it runs, the harder 'twill be to cure, and at length prove of fatal Conſequence. I humbly conceive, there is no way like ſetting the Mint on work (to ſtop this Inundation of <hi>Clipping and Coining</hi>) by making of <hi>Mill'd Money;</hi> which is hitherto unclipt, and may be accompliſh'd af<g ref="char:EOLhyphen"/>ter this manner, <hi>viz.</hi>
+            </p>
+            <p n="1">I. The <hi>Fire Office,</hi> which I propoſed about three years ago, will be a good Fund to work upon, which I have hereto annex'd, adapting it only to Houſes, and will raiſe above 1700000 <hi>l.</hi>
+            </p>
+            <p n="2">II. If an Act was made to prohibit the uſe of <hi>Plate</hi> in <hi>Publick Houſes,</hi> (which the generality of them would be glad of) and the Plate they now have, or<g ref="char:EOLhyphen"/>der'd to the Mint, allowing them 5 <hi>s.</hi> 6 <hi>d.</hi> an ounce for it; and a Mulct or Fine ſet upon ſuch of them as ſhould preſume to uſe any for the future, would be a means to furniſh the Mint with preſent Materials to work on.</p>
+            <p n="3">III. If the Merchant be allow'd 5 <hi>s.</hi> 6 <hi>d.</hi> an ounce for his <hi>Bullion,</hi> which is a greater price than our Goldſmiths at home, or any Nations round about us give for it, will occaſion the bringing moſt part of it hither, and be another mean to raiſe Materials for the Mint.</p>
+            <p n="4">IV. If the Coin be lower'd two Penny-weight in the Crown-Piece,<note place="margin">Sterling goes now at <hi>5</hi> s. <hi>4</hi> d. 1/2 the ounce.</note> and ſo proportionable for ſmaller Moneys, 'twould pay not only for the <hi>Bullion</hi> that is brought to be Coin'd, but the Coinage too; and as <hi>Sterling</hi> goes now, the Shilling will be very little more than a Farthing of leſs worth than it was before.</p>
+            <p n="5">V. Our Gold Coins may be likewiſe dealt with at the ſame rate; for our Guineas which were Coin'd for 20 <hi>s.</hi> pieces, weigh 5 Penny-weight and 9 Grains;<note place="margin">Gold at <hi>4</hi>l. the ounce</note> which, as gold goes now, is worth 18 <hi>d.</hi> more than 'twas intended for, and may be lower'd at leaſt 9 Grains.</p>
+            <p n="6">VI. If any Act was made that no <hi>Clipt Money</hi> ſhould go, after one or two years time, and all the <hi>old Money,</hi> as it comes into the Exchequer, ſent to the Mint; (which the firſt Propoſition makes good) the Nation will be ſufficiently ſtock'd with <hi>New Money</hi> the <hi>Clipt Money</hi> wear away inſenſibly and the Braſs and <hi>Birmingham Money</hi> ſcatter'd and ſunk by that time, (as <hi>Birmingham Groats</hi> were of late) and be no conſiderable loſs to any.</p>
+            <p>
+               <hi>This Method will prevent the melting, hoarding, or Exporting the Coin; becauſe more cannot be made of it any other ways. 'Twill advance our own Growth and home Trade and Manufactory, and ſet our Poor on work; becauſe Merchants then will ſet Handycraft-men and others to Work, and barter Goods, inſtead of Money; and the Kings Taxes will be better paid; becauſe the keeping our Money at home will make it circulate more freely.</hi>
+            </p>
+         </div>
+         <div type="proposals_for_insurance">
+            <pb n="2" facs="tcp:33788:2"/>
+            <head>PROPOSALS <hi>humbly offer'd for Raiſing a</hi> Supply <hi>by a</hi> General Enſurance for Loſſes by FIRE.</head>
+            <p>THE <hi>Fire Office</hi> in <hi>London,</hi> call'd <hi>The Friendly Society,</hi> is certainly the beſt and moſt approved Enſurance of that kind that ever was ſet up; the Members thereof come into it for a ſmall Sum depoſited at their Initia<g ref="char:EOLhyphen"/>tion; and whenſoever any Fire happens, are Relieved by the whole Bo<g ref="char:EOLhyphen"/>dy of the Society, each Perſon bearing an equal ſhare towards repairing the Loſs.</p>
+            <p>Every Member of this Society at his entrance into it, depoſits in the hands of the Undertakers, 16 <hi>s.</hi> for every hundred Pounds worth of Stone or Brick Buildings, and double that Sum for Timber Buildings, beſides 2<hi>s.</hi> 6<hi>d.</hi> for his Po<g ref="char:EOLhyphen"/>licy or Inſtrument of Enſurance, which laſteth but for 7 years.</p>
+            <p>Now if this Enſurance was made perpetual, and extended throughout the Kingdom, and an Office fix'd in every County, for the due management and ordering of it, and Eſtabliſhed by Act of Parliament, it would be for the general Good and Advantage of the whole Nation; and no Man in reaſon will grudge to give for ſuch Enſurance, double or treble the Sum they pay to that Office; becauſe it will raiſe the Price of Houſes equal almoſt to Land, prevent the Ruin of many Families, which we have daily experience of, avoid the Charge and Trouble of Briefs, which ſeldom anſwer their End, and be many other ways advantageous to the Subject.</p>
+            <p>This Enſurance may be manag'd much as the before mentioned Office is, only with this, or ſuch like difference; That is by <hi>voluntary Subſcriptions,</hi> This by a <hi>Tax</hi> or <hi>Aſſeſſment</hi> on the <hi>Tenants</hi> and <hi>Occupants:</hi> In <hi>that</hi> the Eſtimates were given in by the Members themſelves, in <hi>this,</hi> if Eſtimates be ſhort given in, <hi>Aſſeſſors</hi> to value it: In <hi>that</hi> all Loſſes were born by the whole Society; in <hi>this,</hi> if the Loſs exceed not 20 <hi>l.</hi> the Pariſh, Town, or Conſtablewick where it happens, to raiſe the Sum, if above 20 <hi>l.</hi> and does not exceed 100<hi>l.</hi> the whole Hundred to bear it, yet at the diſcretion of Commiſſioners, to be appointed for that pur<g ref="char:EOLhyphen"/>poſe, of the Gentry of every County, to add more Pariſhes or Hundreds to it for their Relief; and if the Loſs be above 100<hi>l.</hi> and do not exceed 1000 <hi>l.</hi> the whole County to bear it; and if it exceed 1000<hi>l.</hi> ſuch, and ſo many Counties to be added for their Relief, as the King and Council ſhall think fit.</p>
+            <p>If for this Enſurance there be granted to His Majeſty 40 <hi>s.</hi> for every 100 <hi>l.</hi> worth of Buildings, whether Brick or Timber; (I mention them indefinitely, becauſe Buildings in the Country are for the moſt part Timber, and not of a<g ref="char:EOLhyphen"/>bove half the value of thoſe in this City, and yet the Charge of Building or Repairing, is as much, or more in the Country, than in the City) it will raiſe a Supply of about 1700000<hi>l.</hi> as appears by the following Account; and will be no greater Tax on Buildings than the 4 <hi>s.</hi> Aid, accounting 10 <hi>l. per Annum</hi> worth 100<hi>l.</hi> which is the the common Eſtimate of Buildings in <hi>London,</hi> and is but a fifth part of one years value. I cannot consceive but all People will pay this Tax with alacrity and chearfulneſs, and thank the King and Parliament for their Care of them, conſidering the great Advantage and General Good that comes to them by this Enſurance.</p>
+            <p>If none be allow'd for their Loſs more than the Eſtimate given in by the Aſ<g ref="char:EOLhyphen"/>ſeſſors, it will prevent ſhort Valuations, the Aſſeſſors being likewiſe ro Appraiſe all Loſſes, and the Relief or Reparations of ſuch Loſſes, to be charg'd only on Buildings and not on Land.</p>
+            <p>New Buildings to be Regiſtred in every County, and the Enſurance Money certified yearly into the <hi>Exchequer,</hi> and paid to the Sheriff, and charged on his Accompt.</p>
+            <p>If this Tax be a year or two in Raiſing, and Aſſeſſed, Collected and Paid into the <hi>Exchequer</hi> by Quarterly Payments, it will come the eaſier.</p>
+            <pb n="3" facs="tcp:33788:2"/>
+            <p>
+               <hi>The way to know what this Tax may amount to is thus:</hi>
+               <table>
+                  <row>
+                     <cell>The City of <hi>London,</hi> to the 12 penny Aid, was Aſſeſſed 30000 <hi>l.</hi> the con<g ref="char:EOLhyphen"/>ſtant ſtanding Stocks being not Aſſeſſed thereto above a tenth pare of what the whole amounts to; that Act charging only Debts and Caſh; which being Deducted, there will remain</cell>
+                     <cell>27000<hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Suppoſe <hi>Weſtminſter,</hi> and parts adjacent, amount to as much</cell>
+                     <cell>27000</cell>
+                  </row>
+                  <row>
+                     <cell>Theſe added together make</cell>
+                     <cell role="total">54000</cell>
+                  </row>
+                  <row>
+                     <cell>The whole Nation, conſidering the many Cities and Towns in it, cannot be leſs than 8 times as much as both <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi>
+                     </cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">432000</cell>
+                  </row>
+                  <row>
+                     <cell>And 4 times ſo much</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Makes</cell>
+                     <cell role="total">1728000</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="part">
+               <head>Objections to theſe laſt Propoſals, with their Anſwers.</head>
+               <p>
+                  <label>
+                     <hi>Object.</hi> 1.</label> This Inſurance will make ſuch whoſe Houſes are decay'd, ſet them op fire on purpoſe that they may be rebuilt, and make them more careleſs of their Fires.</p>
+               <p>
+                  <label>Anſw.</label> The ſame Objection may be made to the <hi>Friendly Society:</hi> yet this Inſu<g ref="char:EOLhyphen"/>rance is not ſo liable to fraud as that is, becauſe here they are uncertain what they ſhall be allowed; and no more is recoverable for their loſs, than what Aſ<g ref="char:EOLhyphen"/>ſeſſors (who are the moſt noted Men in their Pariſh, and know the value of e<g ref="char:EOLhyphen"/>very Houſe therein, and cannot eaſily be deceived) give in upon their Appraiſment; and Commiſſioners, who are the chief of the Gentry in the County, allow of: whereas in the other, if the Building be never ſo much decayed, and chance to be burnt, they recover the full value; beſides the Law puniſhes the wilful burn<g ref="char:EOLhyphen"/>ing of Houſes with Death; and negligent keeping of Fire is Finable the diſcre<g ref="char:EOLhyphen"/>tion of the Judge as well as the Action they are liable to, for the damage done to their Neighbours.</p>
+               <p>
+                  <label>
+                     <hi>Obj.</hi> 2.</label> Farm Houſes and Houſes which ſtand alone in the Country, and in moſt Country Towns (except in Market-Towns) Houſes have Twitchels between them, and ſtand at ſome diſtance one from another, therefore not ſo ſubject to this Caſualty as thoſe in Cities and Market-Towns are, and not ſo needful to be inſured.</p>
+               <p>
+                  <label>Anſw.</label> Although they do not ſtand ſo cloſe together, and not ſo liable to receive damage from their Neighbours as the other are, yet every individual Houſe is as much or more ſubject to this Caſualty than the other, becauſe they have more Servants, and their Buildings are for the moſt part Thatched, and Straw ſcattered about their Yards; and if a Fire happens there, it generally conſumes all, becauſe of the combuſtible matter that lies about them, and for want of that help which all Cities and Market-Towns are plentifully furniſhed with.</p>
+               <p>
+                  <label>Obj.</label> 3. The Proportions for Loſſes ſet on Pariſhes, Hundreds and Counties, are too great for ſome and too little for others.</p>
+               <p>
+                  <label>Anſw.</label> If the Proportions are too large for any Pariſh or Hundred, it is left to the diſcretion of Commiſſioners to add more to them; and if Counties are hard charged, the Parliament may if they pleaſe make it leſs, or leave it to the Conſi<g ref="char:EOLhyphen"/>deration of the King and Council, becauſe there is as much diſparity in Counties as there is in Pariſhes and Hundreds.</p>
+               <pb n="4" facs="tcp:33788:3" rendition="simple:additions"/>
+               <p>
+                  <label>
+                     <hi>Obj.</hi> 4.</label> This Inſurance will lay a perpetual Charge on all the Freehold Eſtates in <hi>England.</hi>
+               </p>
+               <p>
+                  <label>Anſw.</label> It does not charge Land, only Houſes, which are to reap the benefit, and ſo no reaſon but ſhould bear a ſhare in the Charge.</p>
+               <p>
+                  <label>
+                     <hi>Obj.</hi> 5.</label> This Inſurance will be a perpetual Charge to the King and the Crown.</p>
+               <p>
+                  <label>Anſw.</label> It will be a perpetual Advantage becauſe of new Buildings, but no more Charge to the King than the firſt collecting the Tax. The Commiſſioners and Aſſeſ<g ref="char:EOLhyphen"/>ſors have no Allowance in other Taxes, and will require none in this; and a Penny or ſuch like Sum <hi>per</hi> Quarter for every 100<hi>l.</hi> inſured, will be a ſufficient Compen<g ref="char:EOLhyphen"/>ſation for the Regiſter or Clerk that manages this Office in every County, and may be charged on the Houſes inſured therein.</p>
+               <p>
+                  <label>
+                     <hi>Obj.</hi> 6.</label> There is no Fund for this Inſurance.</p>
+               <p>
+                  <label>Anſw.</label> An Act of Parliament is a better Security than all the Funds that can be made.</p>
+               <p>
+                  <label>
+                     <hi>Obj.</hi> 7.</label> Houſes, are already charged to the Four Shillings Aid, and this (if now, whilſt that's depending) will be a double Tax on Houſes, which ought not to be.</p>
+               <p>
+                  <label>Anſw.</label> Gentlemens, Yeomens and Farmers Houſes in the Country, and Tenants have paid very little or nothing to all the Taxes hitherto; therefore if this Tax be charged on Occupants and Tenants, it will be no ſurcharge on the Four Shillings Aid; becauſe that is charged on the Landlord: ſome few indeed who hold and dwell in their own houſes will be double charged, but this Inſurance will make them a ſufficieht Recompence, and will be well ſatisfied with it.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
